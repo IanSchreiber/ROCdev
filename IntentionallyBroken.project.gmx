@@ -11,6 +11,7 @@
   <sprites name="sprites">
     <sprite>sprites\Avatar</sprite>
     <sprite>sprites\Platform</sprite>
+    <sprite>sprites\SmallEnemy1</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
