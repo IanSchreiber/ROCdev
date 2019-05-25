@@ -22,6 +22,7 @@
     <sprite>sprites\Spikes</sprite>
     <sprite>sprites\Wall</sprite>
     <sprite>sprites\Health</sprite>
+    <sprite>sprites\Bullet</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -39,6 +40,7 @@
     <object>objects\Spikes_obj</object>
     <object>objects\Wall_obj</object>
     <object>objects\Health_obj</object>
+    <object>objects\Bullet_obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
