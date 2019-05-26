@@ -23,9 +23,14 @@
     <sprite>sprites\Wall</sprite>
     <sprite>sprites\Health</sprite>
     <sprite>sprites\Bullet</sprite>
+    <sprite>sprites\TutorialConsole</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\ComputerFont</font>
+    <font>fonts\GlitchFont</font>
+  </fonts>
   <objects name="objects">
     <object>objects\Avatar_obj</object>
     <object>objects\Platform_obj</object>
@@ -42,6 +47,7 @@
     <object>objects\Health_obj</object>
     <object>objects\Bullet_obj</object>
     <object>objects\HealthMeter_obj</object>
+    <object>objects\TutorialConsole_obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
